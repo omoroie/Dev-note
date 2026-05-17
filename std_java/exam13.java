@@ -1,6 +1,6 @@
 package std_java;
 // 자바 배열과 참조형 변수의 차이점 예문
-public class exam12 {
+public class exam13 {
     public static void main(String[] args) {
         String[] arr = {"A"};
         String str = "B";
